@@ -1,7 +1,7 @@
 // write your code below!
 
-var name = "Joe"
-var height = "74"
+var name = "Ioan" 
+var height = "170" //because im familar with metrtic not imperial :)  
 
 console.log("Name:")
 console.log(name)
